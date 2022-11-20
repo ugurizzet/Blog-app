@@ -21,18 +21,7 @@ const Home = () => {
       desc: 'lorem Ipsum',
       img: 'https://images.pexels.com/photos/2330169/pexels-photo-2330169.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'
     },
-    {
-      id: 4,
-      title: 'lorem Ipsum',
-      desc: 'lorem Ipsum',
-      img: 'https://images.pexels.com/photos/2330169/pexels-photo-2330169.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'
-    },
-    {
-      id: 5,
-      title: 'lorem Ipsum',
-      desc: 'lorem Ipsum',
-      img: 'https://images.pexels.com/photos/2330169/pexels-photo-2330169.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'
-    }
+
   ]
   return (
     <div className='home'>
